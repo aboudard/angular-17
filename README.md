@@ -1,3 +1,3 @@
 # Angular 17 project
 
-Current running on rc.2
+Current running on Angular 17.0
